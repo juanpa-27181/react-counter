@@ -4,7 +4,7 @@ import React from "react";
 import rigoImage from "../../img/rigo-baby.jpg";
 
 //create your first component
-const Home = () => {
+const Card = () => {
 	return (
 		<div className="text-center">
             
@@ -25,4 +25,4 @@ const Home = () => {
 	);
 };
 
-export default Home;
+export default Card;
